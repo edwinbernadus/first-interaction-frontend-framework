@@ -1,4 +1,4 @@
-# First Interfaction Frontend Framework (FIFF)
+# First Interaction Frontend Framework (FIFF)
 
 ## what is this?
 a new way to get to learn a front-end framework quickly\
