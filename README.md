@@ -1,16 +1,16 @@
 # First Interaction Frontend Framework (FIFF)
 
-## what is this?
+## What is this?
 a new way to get to learn a front-end framework quickly\
 just find the keyword on the project, and you will get the sample
 
-## why I made this?
+## Why I made this project?
 I made this to help my coworkers to speed up learning a framework. \
 I'm bored because every question is always the same. \
 Actually there are similarities in every front-end framework, \
 so it's not too difficult to learn a new framework
 
-## how to use this?
+## How to use?
 1. use the snippet code
 2. find these keyword on the sample project
 
@@ -27,9 +27,13 @@ sample project:
 1. flutter \
 https://github.com/edwinbernadus/fiff-flutter
 
-2. nextJS \
+2. angularJS (ver1) \
 under development
 
-3. avalanche UI \
+3. avalancheUI \
 under development
+
+4. nextJS 13 \
+under development
+
 
