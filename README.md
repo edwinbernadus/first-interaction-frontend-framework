@@ -4,7 +4,7 @@
 a new way to get to learn a front-end framework quickly\
 just find the keyword on the project, and you will get the sample
 
-## why I create this?
+## why I made this?
 I made this to help my coworkers to speed up learning a framework. \
 I'm bored because every question is always the same. \
 Actually there are similarities in every front-end framework, \
