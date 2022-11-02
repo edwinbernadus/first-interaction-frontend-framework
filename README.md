@@ -14,7 +14,12 @@ so it's not too difficult to learn a new framework
 1. use the snippet code
 2. find these keyword on the sample project
 
-## keyword list
+
+### Screenshot
+    https://orangefloat.notion.site/fiff-screenshot-84e4b4b46d1e4ec4a2995a8970d92fc1
+
+
+### keyword list
 - hint_create_button
 - hint_open_new_page
 - hint_loading_webservice
@@ -23,7 +28,8 @@ so it's not too difficult to learn a new framework
 - hint_button_on_list
 - hint_show_detail_item_on_alert
 
-sample project:
+### sample project:
+
 1. flutter \
 https://github.com/edwinbernadus/fiff-flutter
 
