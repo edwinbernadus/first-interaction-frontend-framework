@@ -35,7 +35,7 @@ so it's not too difficult to learn a new framework
 https://github.com/edwinbernadus/fiff-flutter
 
 2. angularJS (ver1) \
-under development
+https://github.com/edwinbernadus/fiff-angularjs
 
 3. avalancheUI \
 under development
