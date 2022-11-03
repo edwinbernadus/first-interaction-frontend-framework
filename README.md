@@ -37,8 +37,8 @@ https://github.com/edwinbernadus/fiff-flutter
 2. angularJS (ver1) \
 https://github.com/edwinbernadus/fiff-angularjs
 
-3. avalancheUI \
-under development
+3. avaloniaUI \
+https://github.com/edwinbernadus/fiff-avalonia
 
 4. nextJS 13 \
 under development
