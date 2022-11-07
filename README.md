@@ -1,12 +1,12 @@
 # First Interaction Frontend Framework (FIFF)
 
 ## What is this?
-a new way to get to learn a front-end framework quickly \
-one sample project contains basic snippet code for daily use \
-just find the keyword on the project, and you will get the sample
+a new way to learn front-end framework quickly \
+sample project contains basic snippet code for daily use \
+just find the keyword on the project, and you will get the snippet code
 
 ## Why I made this project?
-I made this to help my coworkers to speed up learning a framework. \
+I made this to help my coworkers to help learning front-end framework. \
 I'm bored because every question is always the same. \
 Actually there are similarities in every front-end framework, \
 so it's not too difficult to learn a new framework
@@ -41,6 +41,9 @@ https://github.com/edwinbernadus/fiff-angularjs
 https://github.com/edwinbernadus/fiff-avalonia
 
 4. nextJS 13 \
+under development
+
+5. swift UI \
 under development
 
 
