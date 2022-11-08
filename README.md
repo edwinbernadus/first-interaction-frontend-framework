@@ -44,6 +44,6 @@ https://github.com/edwinbernadus/fiff-avalonia
 under development
 
 5. swift UI \
-under development
+https://github.com/edwinbernadus/fiff-swiftui
 
 
