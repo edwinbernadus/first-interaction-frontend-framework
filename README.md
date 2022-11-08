@@ -1,7 +1,7 @@
 # First Interaction Frontend Framework (FIFF)
 
 ## What is this?
-a new way to learn front-end framework quickly \
+new way to learn front-end framework quickly \
 sample project contains basic snippet code for daily use \
 just find the keyword on the project, and you will get the snippet code
 
