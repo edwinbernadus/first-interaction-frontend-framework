@@ -49,5 +49,6 @@ https://github.com/edwinbernadus/starter-template-swiftui
 6. reactjs  
 https://github.com/edwinbernadus/starter-template-reactjs
 
-
+7. tauri nextjs  
+https://github.com/edwinbernadus/starter-template-tauri-nextjs
 
